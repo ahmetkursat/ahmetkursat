@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet Kürşad</h1>
-<h3 align="center">Web application security , Backend developer</h3>
+<h3 align="center"> Backend developer</h3>
 
 
 
