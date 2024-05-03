@@ -65,6 +65,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ahmetkursat/ahmetkursat/output/snake.svg" alt="Snake animation" />
+
 
 ###
