@@ -62,7 +62,7 @@
 </div>
 
 <div align="center">
-<a href="https://bento.me/ahmetkursatyildiz"><a/>
+https://bento.me/ahmetkursatyildiz
 </div>
 
 ###
